@@ -1,13 +1,20 @@
 console.log('hola');
-console.log('Millard');
+console.log('hola');
 
-const sum = (x, y) => x + y
+const subs = (x, y) => x - y
 
-function sum(x, y) {
-    return x + y
+function subs(x, y) {
+    return x - y
 }
 
 
 sum(2,3)
-sum(2,3)
-
+subs(2,3)
+subs(2,3)
+subs(2,3)
+subs(2,3)
+subs(2,3)
+subs(2,3)
+subs(2,3)
+subs(2,3)
+subs(2,3)
